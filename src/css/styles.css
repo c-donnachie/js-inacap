@@ -1,0 +1,27 @@
+  
+  body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+  
+  input
+  button
+   {
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    background: none;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .results {
+    margin-top: 1rem
+  }
